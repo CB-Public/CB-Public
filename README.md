@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Gaming-Note-Sync App to and my own BudgetPlaner (simplybud.app.netlify)<br><br>👯 I’m looking to collaborate on<br>Help and build open source projects or to build customers<br><br>🤝 I’m looking for help with<br>Improving all skills everday and everytime - cause, time will get better... everytime and everyday<br><br>🌱 I’m currently learning<br>PHP Smarty, Java<br><br>💬 Ask me about<br>Anything!<br><br>⚡ Fun fact<br>My biggest "no-skill" was a true hidden gem (frontend skills) and I love backend things!
+🔭 I’m currently working on:<br>Gaming-Note-Sync App to and my own BudgetPlaner (simplybud.app.netlify)<br><br>👯 I’m looking to collaborate on<br>Help and build open source projects or to build customers<br><br>🤝 I’m looking for help with<br>Improving all skills everday and everytime - cause, time will get better... everytime and everyday<br><br>💬 Ask me about<br>Anything!<br><br>⚡ Fun fact<br>My biggest "no-skill" was a true hidden gem (frontend skills) and I love backend things!
 
 <br>
 
